@@ -20,6 +20,14 @@ create-nuxt-app v5.0.0
 ? Version control system: Git
 
 
+https://qiita.com/dcm_kumakawa/items/b2d8e83582070a2b5189
+
+npm install --save-dev @nuxtjs/storybook
+yarn add --dev @nuxtjs/storybook postcss@latest
+yarn add --dev ts-node
+
+yarn nuxt storybook
+
 -----
 
 🎉  Successfully created project nuxtjsapp
