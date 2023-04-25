@@ -4,7 +4,7 @@
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <h2 class="text-2xl leading-7 font-semibold">
-          Hello, I'm Hiroshi
+          Hello, I'm Hiroshi.
         </h2>
         <p class="mt-3 text-gray-600">
           This nuxtjs app.<br>
