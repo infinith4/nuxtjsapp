@@ -1,5 +1,7 @@
 # nuxtjsapp
 
+yarn create nuxt-app nuxtjsapp
+
 create-nuxt-app v5.0.0
 ✨  Generating Nuxt.js project in nuxtjsapp
 ? Project name: nuxtjsapp
